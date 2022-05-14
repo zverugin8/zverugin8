@@ -2,7 +2,7 @@
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning DevOps pro on skillbox
 - 💞️ I’m looking for junior DevOps vacancy
-- 📫 How to reach me  - jusr e-mail at zverugin8@gmail.com
+- 📫 How to reach me  - just send e-mail at zverugin8@gmail.com
 
 <!---
 zverugin8/zverugin8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
